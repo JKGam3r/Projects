@@ -1,0 +1,16 @@
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.exe.config
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.exe
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.pdb
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.xml
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.vbprojAssemblyReference.cache
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.FRMCalculator.resources
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.Resources.resources
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.vbproj.GenerateResource.cache
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.vbproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.exe
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.xml
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.pdb
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.exe.manifest
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\bin\Debug\TestProjectWithForm.application
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.exe.manifest
+C:\Visual Studio Projects\TestProjectWithForm\TestProjectWithForm\obj\Debug\TestProjectWithForm.application
